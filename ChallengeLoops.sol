@@ -6,7 +6,7 @@ contract ForAndWhileLoops {
 
      // Function to calculate the sum of the first _n numbers
     function increment(uint _n) external pure returns (uint) {
-        uint s; // Variable to store the sum
+        uint s; 
         for (uint i = 1; i <= _n; i++) {
             s ++;
         }
