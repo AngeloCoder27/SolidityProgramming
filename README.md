@@ -25,8 +25,7 @@ The contract fulfills the following requirements:
 To execute this smart contract, you'll need:
 
 - **Remix**, an online IDE for Solidity.
-- **MetaMask wallet**, for deploying the contract on the Ethereum test network.
-
+- 
 ### Steps to Compile and Deploy
 
 1. Go to [Remix](https://remix.ethereum.org/).
