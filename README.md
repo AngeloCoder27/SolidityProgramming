@@ -25,7 +25,7 @@ The contract fulfills the following requirements:
 To execute this smart contract, you'll need:
 
 - **Remix**, an online IDE for Solidity.
-- 
+  
 ### Steps to Compile and Deploy
 
 1. Go to [Remix](https://remix.ethereum.org/).
